@@ -63,6 +63,7 @@ export const DISHES = [
   },
 ];
 
+/*
 export const ABOUT = {
   header: "Cocinamos con pasión",
   content:
@@ -74,3 +75,4 @@ export const CONTACT = [
   { key: "phone", value: "Telefono: 123-456-7890" },
   { key: "email", value: "Correo: contact@restaurant.com" },
 ];
+*/
