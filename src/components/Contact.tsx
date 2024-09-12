@@ -4,7 +4,7 @@ export const Contact = () => {
   return (
     <section className="container mx-auto py-16" id="contact">
       <h2 className="mb-8 text-center text-3xl lg:text-4xl text-white">
-        Contactanos
+        Visitanos
       </h2>
       <div className="text-neutral-400">
         {CONTACT.map((detail) => (

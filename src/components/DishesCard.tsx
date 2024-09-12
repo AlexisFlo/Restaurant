@@ -1,6 +1,11 @@
+import { motion } from "framer-motion";
+
 export const DishesCard = ({ project }) => {
   return (
-    <div>
+    <motion.div
+      whileHover={{ scale: 1.1 }}
+      whileTap={{ scale: 0.9 }}
+    >
       <img
         src={project.image}
         alt={project.title}
@@ -12,6 +17,6 @@ export const DishesCard = ({ project }) => {
         </h3>
         <p className="text-sm text-white">{project.description}</p>
       </div>
-    </div>
+    </motion.div>
   );
 };

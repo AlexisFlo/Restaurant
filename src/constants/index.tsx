@@ -70,7 +70,7 @@ export const ABOUT = {
 };
 
 export const CONTACT = [
-  { key: "address", value: "Boulevar, Bosque de las Naciones 51C, Bosques de Aragon, Gustavo A. Madero, 57170 Cdad. Nezahualcóyotl, Méx." },
-  { key: "phone", value: "Phone: 123-456-7890" },
-  { key: "email", value: "Email: contact@restaurant.com" },
+  { key: "address", value: "Bosques de Malasia #20 Loc 2. Esq. Boulevard Naciones Unidas, Bosques de Aragón, 57170 Cdad. Nezahualcóyotl, Méx." },
+  { key: "phone", value: "Telefono: 123-456-7890" },
+  { key: "email", value: "Correo: contact@restaurant.com" },
 ];
